@@ -15,7 +15,7 @@ A **feature-rich** console-based Tic-Tac-Toe game with AI opponents, built in C+
 - **System**: Windows/macOS/Linux
 
 ## 🎯 How to Play
-###Choose a mode:
+### Choose a mode:
 - Player vs. Player (1)
 
 - Player vs. AI (2)
